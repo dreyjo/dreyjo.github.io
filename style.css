@@ -1,10 +1,17 @@
 /* CSS for styling personal website portfolio*/
 
 body {
-  background-color: #000000;
+  background-color: #eba832;
   font-family: 'Roboto Slab', serif;
   font-weight: 200;
+  color: #000000;
+  font-family: 'Palanquin', sans-serif;
+}
+
+h1 {
   color: #e9e4f0;
+  font-family: 'Palanquin', sans-serif;
+  font-weight: 700;
 }
 
 #hero {
