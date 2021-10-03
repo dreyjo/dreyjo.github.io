@@ -1,0 +1,14 @@
+/* CSS for styling personal website portfolio*/
+
+body {
+  background-color: #000000;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 200;
+  color: #e9e4f0;
+}
+
+#hero {
+  background-image: url("wisteria.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+}
