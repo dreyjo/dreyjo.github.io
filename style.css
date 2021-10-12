@@ -6,16 +6,38 @@ body {
   font-weight: 200;
   color: #000000;
   font-family: 'Palanquin', sans-serif;
+  /*display: grid;
+  grid-template-columns: 33% 66%;*/
 }
 
 h1 {
   color: #e9e4f0;
-  font-family: 'Palanquin', sans-serif;
-  font-weight: 700;
+  font-family: 'Khula', sans-serif;
+
+
+  /*font-weight: 700;*/
 }
 
-#hero {
-  background-image: url("wisteria.jpg");
+  /*#hero {
+  background-image: img src="marigold_halftone.jpg";
   background-repeat: repeat;
   background-size: cover;
+}*/
+
+.img {
+  margin-right: -15px;
+margin-left: -15px;
+padding-bottom: 62.5%;
+background-position: 50% 50%;
+background-repeat: repeat;
+background-size: fill;
+}
+
+.col {
+  background-color: #FFFFFF;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
 }
