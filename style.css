@@ -10,6 +10,11 @@ body {
   grid-template-columns: 33% 66%;*/
 }
 
+.col-9 {
+  /*background-color: #c1b7b8;*/
+  background-image: url("profile.jpg");
+}
+
 h1 {
   color: #e9e4f0;
   font-family: 'Khula', sans-serif;
