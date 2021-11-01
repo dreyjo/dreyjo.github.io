@@ -10,11 +10,6 @@ body {
   grid-template-columns: 33% 66%;*/
 }
 
-.col-9 {
-  /*background-color: #c1b7b8;*/
-  background-image: url("profile.jpg");
-}
-
 h1 {
   color: #e9e4f0;
   font-family: 'Khula', sans-serif;
@@ -22,6 +17,13 @@ h1 {
 
   /*font-weight: 700;*/
 }
+
+.col-9 {
+  /*background-color: #c1b7b8;*/
+  /*background-image: url("profile.jpg");*/
+}
+
+
 
   /*#hero {
   background-image: img src="marigold_halftone.jpg";
