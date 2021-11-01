@@ -7,9 +7,16 @@
   Background-size: "cover";
   background-position: "right";
 }
+
+.col-3 {
+  float: left !important;
+}
 div {
   text-align: justify;
-  text-justify: inter-word;
+  /*text-justify: inter-character;*/
+  text-justify: distribute;
+  /*word-spacing:-2px;*/
+  /*word-break: break-all;*/
 }
 body {
   /*background-color: #eba832;*/
