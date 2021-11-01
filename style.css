@@ -1,22 +1,33 @@
 /* CSS for styling personal website portfolio*/
 
+#homepage {
+  /*color: #000000;*/
+  background-image: url("profile_bg.png");
+  background-repeat: "no-repeat";
+  Background-size: "cover";
+  background-position: "right";
+}
+
 body {
-  background-color: #eba832;
+  /*background-color: #eba832;*/
   font-family: 'Roboto Slab', serif;
   font-weight: 200;
-  color: #000000;
+  /*color: #000000;*/
   font-family: 'Palanquin', sans-serif;
   /*display: grid;
   grid-template-columns: 33% 66%;*/
+
 }
 
 h1 {
-  color: #e9e4f0;
+  color: #EAA221 !important;
   font-family: 'Khula', sans-serif;
 
 
   /*font-weight: 700;*/
 }
+
+
 
 .col-9 {
   /*background-color: #c1b7b8;*/
